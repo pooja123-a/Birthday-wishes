@@ -1,0 +1,64 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:Kaushan Script;
+    color:black;
+
+}
+.back{
+    width: 100%;
+    height:100vh;
+    position:fixed;
+    background:url(https://previews.123rf.com/images/kjpargeter/kjpargeter1008/kjpargeter100800025/7569805-christmas-gifts-on-glittery-gold-background.jpg) ;
+    background-size:cover;
+   z-index:-100;
+   
+}
+.area{
+    font-size:135px;
+    font-weight:bold;
+}
+.one{
+   text-align: center;
+}
+.name{
+    font-size:200px;
+    
+    text-align:center;
+}
+.det{
+    font-size:25px;
+    letter-spacing: 2px;
+    margin-bottom: 150px;
+    padding:10%;
+
+}
+.imgarea{
+    padding-left:10%;
+    padding-right:10%;
+    margin-bottom:150px;
+ 
+}
+img{
+    height:300px;
+    width:600px;
+    margin-top:80px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px plum;
+    
+}
+.right{
+    margin-left:50%;
+}
+span{
+    font-size:20px;
+    text-shadow: grey;
+}
+#play{
+    width:50%;
+    height:60px;
+    background: linear-gradient(white,plum,pink);
+    padding-left: 50px;
+    font-size: 50px;
+    
+}
